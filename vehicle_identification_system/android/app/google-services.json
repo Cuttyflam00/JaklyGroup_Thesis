@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093563024073",
+    "project_id": "vehicle-identification-s-bb635",
+    "storage_bucket": "vehicle-identification-s-bb635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093563024073:android:e94fc4cc7e9431fff34318",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_identification_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093563024073-087cj1kdlb31trig6e6bhs30g42dpibr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhrp_5IZ2Km4E-s1oH8no062_3ieJML04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093563024073-087cj1kdlb31trig6e6bhs30g42dpibr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
